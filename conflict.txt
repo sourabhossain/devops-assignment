@@ -1,1 +1,2 @@
 Change from feature1
+Change from feature2
