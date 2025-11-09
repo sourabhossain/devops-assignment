@@ -320,6 +320,3 @@ This assignment successfully demonstrates the deployment of a modern web applica
 
 **Project Repository:** [next-japan](https://github.com/sourabhossain/next-japan)
 
----
-
-_Assignment completed as part of Module 3: Cloud Deployment & DevOps_
